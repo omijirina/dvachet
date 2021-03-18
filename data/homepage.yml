@@ -1,8 +1,8 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "HIDRATANTES Y CREMAS"
-  content : "Hidratación revitalizante y revitalizante de día y de noche"
+  title : "Crema hidratante de azuleno con colágeno y elastina para pieles normales"
+  content : "Un excelente humectante para la piel normal es la Crema Hidratante Elastin Collagen Azulene de Christina"
   image : "images/banner.png"
   # button
   button:
@@ -18,8 +18,7 @@ banner:
 about:
   enable : true
   title : "About Our Product"
-  content : "La crema hidratante Hydreane Legere de la marca francesa de cosmética médica La Roche-Posay está diseñada para reducir la sensibilidad de la piel y eliminar el problema de la deshidratación.La fórmula revolucionaria de la crema presentada contiene exclusivos agentes hidrofijantes que penetran en las capas más profundas de la epidermis y proporcionan un aumento en el nivel de saturación de humedad. Además, los hidrofixers en combinación con agua termal calman y relajan la piel, reducen su sensibilidad.
-La consistencia ultraligera y sin aceite de Hydreane Legere está formulada teniendo en cuenta las características"
+  content : "Al poseer una textura delicada, la crema se extiende fácilmente sobre la superficie de la piel y se absorbe rápidamente. La fórmula de la crema está enriquecida con colágeno y elastina, lo que contribuye a la preservación de la juventud, firmeza y elasticidad de la piel. Las vitaminas A y E en la fórmula tienen un efecto protector, aumentan la inmunidad y promueven la renovación activa de las células epidérmicas."
   image : "images/about.png"
 
 
@@ -69,8 +68,7 @@ advantage:
 video:
   enable : true
   title : "How To Use This Product?"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et."
+  content : "Aplique una fina capa de Christina Moisturizer sobre la piel pretratada con suero hasta su total absorción."
   videoThumb : "images/video-thumb.jpg"
   videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
@@ -91,7 +89,7 @@ testimonial:
     - name : "Angela Perara"
       image : "images/clients/client-1.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Crema bastante buena. Olor agradable y ligero, económico de usar, la piel es agradable al tacto después de su uso. Lo uso por la mañana y por la noche, la piel mixta se ha vuelto más mate."
+      content : "Muy ligero, ingrávido. Lo usaré en verano, para el invierno hay muy poca humedad. Se absorbe rápidamente, no deja una película 5a en el rostro."
       rating : "five" # rating star, one to five
       
     # testimonial item loop
@@ -112,5 +110,5 @@ testimonial:
     - name : "Riya Ventila"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Voy a comprar por segunda vez y compraré más. Muy buena crema, perfecta, el estado de la piel ha mejorado."
+      content : "Un buen humectante, pero no es suficiente para mi piel seca (((. Lo uso con suero hialurónico, luego el efecto de dos productos y la piel simplemente brilla, nutre e hidrata"
       rating : "four" # rating star, one to five
